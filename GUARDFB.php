@@ -11,7 +11,7 @@ echo "$hijau  [  Author  : DEADPOOL-TUMISO                 ]\n";
 echo "$hijau  [  Contact : KiidTiie@gmail.com              ]\n";
 echo "$hijau  [  Tool-V? : UPDATED FACEBOOK PROFILE GUARD  ]\n";
 echo "$hijau  ×============================================×\n";
-echo "$input $IMPORT TOKEN>> : ";
+echo "$TOKEN>> : ";
 $token= trim(fgets(STDIN));
 $md5 = md5(time());
 $hash = substr($md5, 0, 8)."-".substr($md5, 8, 4)."-".substr($md5, 12, 4)."-".substr($md5, 16, 4)."-".substr($md5, 20, 12);
