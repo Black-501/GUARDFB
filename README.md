@@ -24,10 +24,5 @@ $ **php GUARDFB.php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/tumiso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tumiso" height="30" width="40" /></a>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100032085647548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032085647548" height="30" width="40" /></a>
-</p>
-
+[Facebook](https://www.facebook.com/profile.php?id=100032085647548) 
