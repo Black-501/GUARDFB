@@ -1,1 +1,51 @@
-<?php eval("?>".base64_decode("PD9waHANCi8vIFdhcm5hIFRlcm1pbmFsDQokYmlydSA9ICJlWzM0bSI7DQoka3VuaW5nID0gImVbMzNtIjsNCiRjeWFuID0gImVbOTZtIjsNCiRtYWdlbnRhID0gImVbMzVtIjsNCiRoaWphdSA9ICJlWzkybSI7DQokbWVyYWggPSAiZVs5MW0iOw0KZWNobyAiJGhpamF1ICDXPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3XbiI7DQplY2hvICIkaGlqYXUgIFsgIEF1dGhvciAgOiBERUFEUE9PTC1UVU1JU08gICAgICAgICAgICAgICAgIF1uIjsNCmVjaG8gIiRoaWphdSAgWyAgQ29udGFjdCA6IEtpaWRUaWllQGdtYWlsLmNvbSAgICAgICAgICAgICAgXW4iOw0KZWNobyAiJGhpamF1ICBbICBUb29sLVY/IDogVVBEQVRFRCBGQUNFQk9PSyBQUk9GSUxFIEdVQVJEICBdbiI7DQplY2hvICIkaGlqYXUgINc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PdduIjsNCmVjaG8gIiRoaWphdSAgPT09PT09PT09PT09PUZBQ0VCT09LIExPR0lOIFRPS0VOPT09PT09PT09PT1uIjsNCmVjaG8gIiRoaWphdSBUT0tFTiA+PiA6ICI7DQokdG9rZW49IHRyaW0oZmdldHMoU1RESU4pKTsNCiRtZDUgPSBtZDUodGltZSgpKTsNCiRoYXNoID0gc3Vic3RyKCRtZDUsIDAsIDgpLiItIi5zdWJzdHIoJG1kNSwgOCwgNCkuIi0iLnN1YnN0cigkbWQ1LCAxMiwgNCkuIi0iLnN1YnN0cigkbWQ1LCAxNiwgNCkuIi0iLnN1YnN0cigkbWQ1LCAyMCwgMTIpOw0KZnVuY3Rpb24gY3VybCgkdXJsLCAkcG9zdD1udWxsKSB7DQogICAgJGNoID0gY3VybF9pbml0KCk7DQogICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgJHVybCk7DQogICAgaWYoJHBvc3QgIT0gbnVsbCkgew0KICAgICAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUE9TVCwgdHJ1ZSk7DQogICAgICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCAkcG9zdCk7DQogICAgfQ0KICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9GT0xMT1dMT0NBVElPTiwgdHJ1ZSk7DQogICAgY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSLCB0cnVlKTsNCiAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfU1NMX1ZFUklGWVBFRVIsIGZhbHNlKTsNCiAgICAkZXhlYyA9IGN1cmxfZXhlYygkY2gpOw0KICAgIGN1cmxfY2xvc2UoJGNoKTsNCiAgICByZXR1cm4gJGV4ZWM7DQp9DQokbWUgPSBqc29uX2RlY29kZShjdXJsKCJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS9tZT9maWVsZHM9aWQmYWNjZXNzX3Rva2VuPSIuJHRva2VuKSk7DQppZigkbWUgJiYgJG1lLT5pZCkgew0KICAgICR2YXIgPSAieyIwIjp7ImlzX3NoaWVsZGVkIjp0cnVlLCJzZXNzaW9uX2lkIjoiJGhhc2giLCJhY3Rvcl9pZCI6IiRtZS0+aWQiLCJjbGllbnRfbXV0YXRpb25faWQiOiIkaGFzaCJ9fSI7DQogICAgJGhhamFyID0ganNvbl9kZWNvZGUoY3VybCgiaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vZ3JhcGhxbCIsIGFycmF5KA0KICAgICAgICAidmFyaWFibGVzIiA9PiAkdmFyLA0KICAgICAgICAiZG9jX2lkIiA9PiAiMTQ3NzA0MzI5MjM2NzE4MyIsDQogICAgICAgICJxdWVyeV9uYW1lIiA9PiAiSXNTaGllbGRlZFNldE11dGF0aW9uIiwNCiAgICAgICAgInN0cmlwX2RlZmF1bHRzIiA9PiAidHJ1ZSIsDQogICAgICAgICJzdHJpcF9udWxscyIgPT4gInRydWUiLA0KICAgICAgICAibG9jYWxlIiA9PiAiZW5fVVMiLA0KICAgICAgICAiY2xpZW50X2NvdW50cnlfY29kZSIgPT4gIlVTIiwNCiAgICAgICAgImZiX2FwaV9yZXFfZnJpZW5kbHlfbmFtZSIgPT4gIklzU2hpZWxkZWRTZXRNdXRhdGlvbiIsDQogICAgICAgICJmYl9hcGlfY2FsbGVyX2NsYXNzIiA9PiAiSXNTaGllbGRlZFNldE11dGF0aW9uIiwNCiAgICAgICAgImFjY2Vzc190b2tlbiIgPT4gJHRva2VuDQogICAgKSkpOw0KICAgIGlmKCRoYWphci0+ZGF0YS0+aXNfc2hpZWxkZWRfc2V0LT5pc19zaGllbGRlZCkgZWNobyAiJFN0YXR1cyA9PT4gJFtTaGllbGQgQWN0aXZlZF0iOw0KICAgIGVsc2UgIkdBR0FMIDooIFNJTEFIS0FOIFBFUklLU0EgVE9LRU4gRkIgS0FNVSI7DQp9DQo/Pg0K")); ?>
+<?php
+// Warna Terminal
+$biru = "\e[34m";
+$kuning = "\e[33m";
+$cyan = "\e[96m";
+$magenta = "\e[35m";
+$hijau = "\e[92m";
+$merah = "\e[91m";
+echo "$hijau  ×============================================×\n";
+echo "$hijau  [  Author  : DEADPOOL-TUMISO                 ]\n";
+echo "$hijau  [  Contact : KiidTiie@gmail.com              ]\n";
+echo "$hijau  [  Tool-V? : UPDATED FACEBOOK PROFILE GUARD  ]\n";
+echo "$hijau  ×============================================×\n";
+echo "$hijau  =============FACEBOOK LOGIN TOKEN===========\n";
+echo "$hijau TOKEN >> : ";
+$token= trim(fgets(STDIN));
+$md5 = md5(time());
+$hash = substr($md5, 0, 8)."-".substr($md5, 8, 4)."-".substr($md5, 12, 4)."-".substr($md5, 16, 4)."-".substr($md5, 20, 12);
+function curl($url, $post=null) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    if($post != null) {
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+    }
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    $exec = curl_exec($ch);
+    curl_close($ch);
+    return $exec;
+}
+$me = json_decode(curl("https://graph.facebook.com/me?fields=id&access_token=".$token));
+if($me && $me->id) {
+    $var = "{\"0\":{\"is_shielded\":true,\"session_id\":\"$hash\",\"actor_id\":\"$me->id\",\"client_mutation_id\":\"$hash\"}}";
+    $hajar = json_decode(curl("https://graph.facebook.com/graphql", array(
+        "variables" => $var,
+        "doc_id" => "1477043292367183",
+        "query_name" => "IsShieldedSetMutation",
+        "strip_defaults" => "true",
+        "strip_nulls" => "true",
+        "locale" => "en_US",
+        "client_country_code" => "US",
+        "fb_api_req_friendly_name" => "IsShieldedSetMutation",
+        "fb_api_caller_class" => "IsShieldedSetMutation",
+        "access_token" => $token
+    )));
+    if($hajar->data->is_shielded_set->is_shielded) echo "$Status ==> $[Shield Actived]";
+    else "GAGAL :( SILAHKAN PERIKSA TOKEN FB KAMU";
+}
+?>
